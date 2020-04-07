@@ -11,12 +11,12 @@
 }
 
 button:hover {
-	background: #606060;
+    background: #606060;
     color: #202020;
 } 
 
 h1 {
-	text-align: center;
+    text-align: center;
 }
 
 .use-keyboard-input {
